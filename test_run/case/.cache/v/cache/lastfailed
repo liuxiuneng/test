@@ -1,0 +1,10 @@
+{
+  "test.py::Activity::test_delactive": true,
+  "test.py::Ceping::test_addacvtive": true,
+  "test.py::Ceping::test_chaxun": true,
+  "test.py::Ceping::test_delactive": true,
+  "test.py::Cepinghuodong::test_addacvtive": true,
+  "test.py::Cepinghuodong::test_chaxun": true,
+  "test.py::Cepinghuodong::test_delactive": true,
+  "test_UI.py::Activity::test_del_activity": true
+}
